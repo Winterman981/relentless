@@ -46,49 +46,49 @@ MonoBehaviour:
   sounds:
   - name: Theme
     clip: {fileID: 8300000, guid: fd0b2e0d2dc3ba74ca9f23f83f88604d, type: 3}
-    group: {fileID: 0}
+    group: {fileID: 24300002, guid: 89a37c50c51aa864ab605cd92274db08, type: 2}
     volume: 0.1
     pitch: 1
     loop: 1
     source: {fileID: 0}
   - name: Rifle
     clip: {fileID: 8300000, guid: 5802fc3bd17d2cb40b59e5c537faa3e8, type: 3}
-    group: {fileID: 0}
+    group: {fileID: 24300002, guid: 89a37c50c51aa864ab605cd92274db08, type: 2}
     volume: 0.2
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: SMG
     clip: {fileID: 8300000, guid: e218d5d51b33512439f8ff341b52700f, type: 3}
-    group: {fileID: 0}
+    group: {fileID: 24300002, guid: 89a37c50c51aa864ab605cd92274db08, type: 2}
     volume: 0.2
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Sniper
     clip: {fileID: 8300000, guid: 0d13550aeb232554f9e70311134e2fc4, type: 3}
-    group: {fileID: 0}
+    group: {fileID: 24300002, guid: 89a37c50c51aa864ab605cd92274db08, type: 2}
     volume: 0.2
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: MG
     clip: {fileID: 8300000, guid: 2b0bc00c4a1728944bd634687ec2e952, type: 3}
-    group: {fileID: 0}
+    group: {fileID: 24300002, guid: 89a37c50c51aa864ab605cd92274db08, type: 2}
     volume: 0.2
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Rocket
     clip: {fileID: 8300000, guid: a1ea8e96942fa804dbd52cbc037523c8, type: 3}
-    group: {fileID: 0}
+    group: {fileID: 24300002, guid: 89a37c50c51aa864ab605cd92274db08, type: 2}
     volume: 0.2
     pitch: 1
     loop: 0
     source: {fileID: 0}
   - name: Explosion
     clip: {fileID: 8300000, guid: 35fc764b547bb104181bc12bc3dc6304, type: 3}
-    group: {fileID: 0}
+    group: {fileID: 24300002, guid: 89a37c50c51aa864ab605cd92274db08, type: 2}
     volume: 0.1
     pitch: 1
     loop: 0

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FCF0A0FA-0B7C-506B-C8A2-46FD56BB62D2}</ProjectGuid>
+    <ProjectGuid>{6DFB1C0B-A813-637D-1087-4D8F0E8A9F13}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\AllyFighting.cs" />
     <Compile Include="Assets\Scripts\Credits.cs" />
     <Compile Include="Assets\Scripts\GrenadeFightingEnemy.cs" />
+    <Compile Include="Assets\Scripts\Hint.cs" />
     <Compile Include="Assets\Scripts\UnitHealth.cs" />
     <Compile Include="Assets\Scripts\LevelScript\LevelFour.cs" />
     <Compile Include="Assets\Scripts\WalkingEnemy.cs" />
@@ -82,7 +83,7 @@
     <Compile Include="Assets\Scripts\DeathMenu.cs" />
     <Compile Include="Assets\Scripts\RifleBullet.cs" />
     <Compile Include="Assets\Scripts\WalkingAlly.cs" />
-    <Compile Include="Assets\Scripts\Hint.cs" />
+    <Compile Include="Assets\Scripts\VolumeSlider.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
@@ -714,11 +715,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NavMeshComponentsEditor.csproj">
-      <Project>{6EF339A9-46FE-5122-751D-A1EB7DD431D2}</Project>
+      <Project>{31A5797A-43EA-7189-07CA-C6CD8E583D90}</Project>
       <Name>NavMeshComponentsEditor</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshComponents.csproj">
-      <Project>{FA8BED18-9166-4144-B90F-8D91E07DD0DD}</Project>
+      <Project>{0D3DF2E5-A4B3-245C-80BB-B5327279F55D}</Project>
       <Name>NavMeshComponents</Name>
     </ProjectReference>
   </ItemGroup>
