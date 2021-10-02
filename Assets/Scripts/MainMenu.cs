@@ -10,9 +10,14 @@ public class MainMenu : MonoBehaviour
         Application.Quit();
     }
 
-    public void NextLevel()
+    public void StartGame()
     {
         Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+
+    public void LevelSelectScreen()
+    {
+        SceneManager.LoadScene(9);
     }
 }

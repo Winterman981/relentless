@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Battle 8.unity
     guid: 1d057966a1a83594a93e9fc21fce43b4
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 391a107782c044e40be355fbf361ad42
   m_configObjects: {}
